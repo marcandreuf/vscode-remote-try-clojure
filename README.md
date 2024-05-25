@@ -39,11 +39,9 @@ Follow these steps to open this sample in a container using the VS Code Dev Cont
 ## Things to try
 
 
-1. Start calva repl (In progress)
-
+1. Get started with Calva extension and the repl read the official docs [here](https://calva.io/getting-started/)
 
 2. Fix the app tests
-
 ```bash
 # From the deps-new clj tool docs try:
 clojure -A:deps -T:build help/doc
@@ -72,3 +70,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 Copyright © Microsoft Corporation All rights reserved.<br />
 Licensed under the MIT License. See LICENSE in the project root for license information.
+
+## Tips:
+
+On Ubuntu: Start a "bash" terminal with better prompt and tools support. Click the down arrow next to the "+" symbol and select "bash".
